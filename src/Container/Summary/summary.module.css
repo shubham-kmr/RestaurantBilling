@@ -1,0 +1,13 @@
+.summary {
+  flex: 1;
+  margin-top:7%;
+}
+
+.summary button{
+  margin-top:20px;
+  box-shadow: 2px seagreen;
+  color:#fff;
+  background-color:#1f7903;
+  width: 70%;
+  height: 35px;
+}

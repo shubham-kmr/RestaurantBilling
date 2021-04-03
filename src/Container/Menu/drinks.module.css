@@ -1,0 +1,98 @@
+.menu {
+    width: 900px;
+    margin: 20px 20px;
+    font-family: "Times New Roman", Times, serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .menu h2 {
+    text-align: center;
+  }
+  
+  .tabs {
+    border: 1px solid black;
+    text-align: center;
+    width: 100%;
+    display: flex;
+  }
+  
+  .tabs a {
+    text-align: center;
+    text-decoration: none;
+    padding-top: 10px;
+    font-size: 20px;
+    width: 100%;
+    height: 40px;
+  }
+  
+  .tabs a:link,
+  .tabs a:visited {
+    color: black;
+  }
+  
+  .tabs a:hover,
+  .tabs a:active {
+    color: white;
+    background-color: black;
+  }
+  
+  .tabs1,
+  .tabs2,
+  .tabs3 {
+    width: 30%;
+  }
+  
+  .bevSelector {
+    width: 100%;
+    padding-top: 15px;
+  }
+  
+  .bevSelector select {
+    width: 100%;
+    font-size: 20px;
+    height: 45px;
+    padding-left: 15px;
+  }
+  
+  .menuItems {
+    width: 100%;
+    /* background-color: aqua; */
+    margin-top: 15px;
+    /* display: flex; */
+  }
+  
+  .menuItems div {
+    float: left;
+    width: 50%;
+  }
+  
+  .itemCard {
+    display: flex;
+    padding-top: 20px;
+    /* font-family: Georgia, "Times New Roman", Times, serif; */
+  }
+  
+  .itemCard img {
+    width: auto;
+    height: 130px;
+    padding-right: 60px;
+  }
+  
+  .itemCard a {
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 1px 10px;
+    margin: 0 10px;
+    background-color: #fff;
+    color: black;
+    /* width: 20px; */
+  }
+  
+  .itemCard input {
+    width: 14px;
+  }
+  
+  /* .itemCard; */
+  

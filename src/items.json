@@ -1,0 +1,39 @@
+{
+    "items":{
+        "drinks":{
+            "Wine":[
+                {"name":"xyz","price":100,"quantity":0},
+                {"name":"abc",
+                 "price":200,"quantity":0}   
+            ],
+            "Beer":[{"name":"Beer1","price":100,"quantity":0},
+                {"name":"Beer2","price":50,"quantity":0}
+            ],
+            "Mocktail":[{"name":"M1","price":60,"quantity":0},
+                {"name":"M2","price":40,"quantity":0}]
+        },
+        "food":{
+            "Chinese":[
+                {"name":"Chi","price":100,"quantity":0},
+                {"name":"Pi",
+                 "price":200,"quantity":0}   
+            ],
+            "Italian":[{"name":"Ita","price":100,"quantity":0},
+                {"name":"I1","price":50,"quantity":0}
+            ]
+        },
+        "dessert":{
+            "Cakes":[
+                {"name":"Chocolate","price":100,"quantity":0},
+                {"name":"Vanilla",
+                 "price":200,"quantity":0}   
+            ],
+            "Cookies":[{"name":"Coo","price":100,"quantity":0},
+                {"name":"Kie","price":50,"quantity":0}
+            ],
+            "Pastries":[{"name":"Truffle","price":60,"quantity":0},
+                {"name":"Hot","price":40,"quantity":0}]
+        }
+
+    }
+}
